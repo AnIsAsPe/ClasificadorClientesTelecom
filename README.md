@@ -1,7 +1,7 @@
 # ClasificadorClientesTelecom
 Análisis para la retención de clientes de una empresa de telecomunicaciones
 
-Se utiliza el algoritmo de arbol de decision para obtener un arbol de decisión para entender las características más relevantes para la retension de clientes de una empresa de telecomunicaciones.
+Se utiliza el algoritmo de arbol de decision para entender las características más relevantes para la retension de clientes de una empresa de telecomunicaciones.
 El conjunto de datos se tomó de Kaggle https://www.kaggle.com/blastchar/telco-customer-churn. Éste cuenta con 7,043 renglones y 21 columnas.
 
 Cada renglón representa un cliente y cada columna un atributo de éstos, considerando:
