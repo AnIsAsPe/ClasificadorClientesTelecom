@@ -6,4 +6,5 @@ Se realiza un análisis para la retención de clientes de una empresa de telecom
 
 El conjunto de datos se tomó de [Kaggle](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets?datasetId=255093&sortBy=voteCount&select=churn-bigml-80.csv). Éste cuenta con 3,333 renglones y 20 columnas.
 
-
+El conjunto de datos disponible aquí, incluye los registros tanto el conjunto de entrenamiento (churn-bigml80.csv), como del conjunto de evaluación (churn-bigml20.csv).
+Cabe además señalar que para facilitar la interpretación tanto del análisis exploratorio como del modelo, los nombres de las columnas del conjunto de datos se tradujo al español. 
