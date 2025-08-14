@@ -1,4 +1,4 @@
-Estado,Dias de antiguedad,Codigo Postal,Plan Internacional,Plan Correo de voz,Total Correos de Voz,Minutos Dia,Llamadas Dia,Cargos Dia,Minutos Tarde,Llamadas Tarde,Cargos Tarde,Minutos Noche,Llamadas Noche,Cargos Noche,Minutos Internacional,Llamadas Internacional,Cargos Internacional,Llamadas Servicio al Cliente,Abandono
+Estado,Dias de antiguedad,Codigo de area,Plan Internacional,Plan Correo de voz,Total Correos de Voz,Minutos Dia,Llamadas Dia,Cargos Dia,Minutos Tarde,Llamadas Tarde,Cargos Tarde,Minutos Noche,Llamadas Noche,Cargos Noche,Minutos Internacional,Llamadas Internacional,Cargos Internacional,Llamadas Servicio al Cliente,Abandono
 KS,128,415,No,Si,25,265.1,110,45.07,197.4,99,16.78,244.7,91,11.01,10.0,3,2.7,1,False
 OH,107,415,No,Si,26,161.6,123,27.47,195.5,103,16.62,254.4,103,11.45,13.7,3,3.7,1,False
 NJ,137,415,No,No,0,243.4,114,41.38,121.2,110,10.3,162.6,104,7.32,12.2,5,3.29,0,False
